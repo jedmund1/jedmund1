@@ -39,4 +39,4 @@ I enjoy building systems from first principles — whether that’s implementing
 
 ## Contact
 - GitHub: https://github.com/jedmund1 
-- LinkedIn: https://www.linkedin.com/in/jack-edmunds-80929a346/https://linkedin.com/in/
+- LinkedIn: www.linkedin.com/in/jack-edmunds
